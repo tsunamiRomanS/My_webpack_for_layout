@@ -5,7 +5,7 @@
         все компилируется в css в папку dist
 
     img кидать в src/img
-
+    
+    подключение favicon <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">(конкретный путь не нужен)
+    
     в бандл уходят все файлы и папка img
-    
-    

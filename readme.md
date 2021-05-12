@@ -8,5 +8,3 @@
     
     подключение favicon (положить в папку assets)
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">(конкретный путь не нужен)
-    
-в бандл уходят все файлы и папка img
